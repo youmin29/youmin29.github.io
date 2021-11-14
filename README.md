@@ -1,4 +1,3 @@
-# youmin29.github.io
 
 <h1 align = "center">
 	<br> youmin29.github.io
